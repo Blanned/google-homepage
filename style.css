@@ -76,6 +76,7 @@ a:hover {
     border: 1px solid #d9d9d9;
     border-radius: 35px;
     margin-top: 20px;
+    outline:none;
 }
 #search:hover {
     box-shadow: 1px 1px 5px #8c8c8c;
